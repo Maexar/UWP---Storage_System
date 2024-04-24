@@ -1,0 +1,153 @@
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\App.xbf
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\MainPage.xbf
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.xr.xml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\resources.pri
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\AppxManifest.xml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.build.appxrecipe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\System.Runtime.dll
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.i.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xaml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xaml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xbf
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xbf
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_.A36F376A.Up2Date
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316478480000000.json
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Update.xbf
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.i.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.cs
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xaml
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\App.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\MainPage.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Update.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.xr.xml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.exe
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.pdb
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\resources.pri
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\AppxManifest.xml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\AppxManifest.xml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\Sistema_Estoque.exe
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.build.appxrecipe
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\System.Runtime.dll
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.AssemblyReference.cache
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.i.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.i.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.i.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xaml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xaml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xaml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xbf
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.CoreCompileInputs.cache
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_.A36F376A.Up2Date
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.exe
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.pdb
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ResourceHandlingTask.state
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ProjectArchitectures.txt
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316478480000000.json
+C:\Dev\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441563520000000.json
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\App.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\MainPage.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Update.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.xr.xml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.pdb
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\resources.pri
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\AppxManifest.xml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Core\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Sistema_Estoque.build.appxrecipe
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\System.Runtime.dll
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.i.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.g.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.g.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.i.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.g.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xaml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xaml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xaml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\App.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MainPage.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Update.xbf
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_.A36F376A.Up2Date
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.exe
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\Sistema_Estoque.pdb
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638316478480000000.json
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441563520000000.json
+C:\Users\marlo\Desktop\Projetos\Plataforma_Universal_Windows\Sistema_Estoque\bin\x86\Debug\Newtonsoft.Json.dll

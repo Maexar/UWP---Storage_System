@@ -1,0 +1,163 @@
+﻿<Page
+    x:Class="Sistema_Estoque.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Sistema_Estoque"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Margin="20">
+
+            <TextBlock Text="Sistema de Estoque"
+                       FontSize="30"
+                       Margin="0,0,0,20"/>
+           
+            <TextBlock x:Name="tituloform" 
+                       Text=" Insira os dados do produto:"
+                       FontSize="20"
+                       Margin="0,0,0,20"
+                />
+
+            <Button x:Name="Btn_PesqID"
+                    Content="Pesquisar Por ID"
+                    Click="Btn_PesqID_Click"
+                    Margin="50,0,0,10"
+                    Width="148"
+                    />
+            
+            <TextBox x:Name="ProdPesqID"
+                     PlaceholderText="Pesquisar Produto Por ID"
+                     Margin="0,0,0,10"
+                     
+        
+            />
+
+            <Button x:Name="Btn_PesqNome"
+                    Content="Pesquisar Por NOME"
+                    Click="Btn_PesqNome_Click"
+                    Margin="50,15,0,10"
+            />
+
+            <TextBox x:Name="ProdPesqNome"
+                     PlaceholderText="Pesquisar Produto Por Nome"
+                     Margin="0,0,0,10"
+            />
+            
+
+            <Button x:Name="Btn_PesqPreco"
+                    Content="Pesquisar Por PREÇO"
+                    Click="Btn_PesqPreco_Click"
+                    Margin="50,15,0,10"
+            />
+
+            <TextBox x:Name="ProdPesqPreco"
+                     PlaceholderText="Pesquisar Produto Por Preço"
+                     Margin="0,0,0,10"
+            />
+
+
+
+            <TextBox x:Name="produtoNomeTextBox" 
+                     PlaceholderText="Nome do Produto"
+                     Margin="0,0,0,10"
+             />
+
+            <TextBox x:Name="produtoPrecoTextBox" 
+                     PlaceholderText="Preço do Produto"
+                     Margin="0,0,0,10"
+            />
+
+            <TextBox x:Name="produtoDescricaoTextBox" 
+                     PlaceholderText="Descrição do Produto"
+                     Margin="0,0,0,10"
+             />
+
+            <StackPanel Orientation="Horizontal">
+            <Button x:Name="addProduto"
+                    Content="Adicionar Produto"
+                    Click="AddProduto_Click"
+            />
+
+                <Button x:Name="saveProduto"
+                        Content="Salvar"
+                        Click="Salvar_Click"
+                />
+                
+                <Button x:Name="Btn_PesqEspecifica"
+                        Content="Pesquisar"
+                        Click="Btn_PesqEspecifica_Click"    
+                />
+                
+                <Button x:Name="Btn_Cancelar"
+                        Content="Cancelar"
+                        Click="Btn_Cancelar_Click"
+                        Margin="20"
+                />
+
+                <Button x:Name="Btn_Editar"
+                        Content="Editar"
+                        Click="EditProduto_Click"
+                        Tag="{Binding}"
+                        Margin="30, 0, 0, 0"
+                        Width="70"
+                        HorizontalAlignment="Right"
+                />
+
+                <Button x:Name="Btn_Remover"
+                        Content="Remover"
+                        Click="RemoveProduto_Click"
+                        Tag="{Binding}"
+                        Margin="30, 0, 0, 0"    
+                        HorizontalAlignment="Right"
+                />
+
+
+                <Button x:Name="Btn_Pesquisar"
+                        Content="Pesquisar Produtos" 
+                        Click="Btn_Pesquisar_Click"
+                        VerticalAlignment="Center"
+                        Margin="30, 0"
+  
+                />
+
+                <Button x:Name="Btn_Persistir_Dados"
+                        Content="Gravar Dados"
+                        Click="Btn_Persistir_Dados_Click"
+                        VerticalAlignment="Center"
+                        Margin="30, 0"
+                
+                    
+                 
+                />
+
+
+
+            </StackPanel>
+
+                <ListView x:Name="listaProdutos"
+                      Margin="0,20,0,0">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="10">
+                            <TextBlock Text="{Binding  ID}" Style="{ThemeResource BaseTextBlockStyle}" Margin="0,0,10,0"/>
+                            <TextBlock Text="{Binding Nome}" Style="{ThemeResource BaseTextBlockStyle}" Margin="0,0,10,0"/>
+                            <TextBlock Text="{Binding PrecoFormatado}" Style="{ThemeResource BaseTextBlockStyle}" Margin="0,0,10,0"/>
+                            <TextBlock Text="{Binding Descricao}" Style="{ThemeResource BaseTextBlockStyle}" Margin="0,0,10,0"/>
+                           
+                            
+
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+           
+
+        </StackPanel>
+    </Grid>
+</Page>
